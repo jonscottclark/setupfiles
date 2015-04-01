@@ -1,20 +1,18 @@
 # Sublime Text Packages
 
-These are the exact names of the packages, so you can find them via Package Control.
-
 - [Alignment](https://packagecontrol.io/packages/Alignment)
 - [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter)
 - [DocBlockr](https://packagecontrol.io/packages/DocBlockr)
 - [Emmet](https://packagecontrol.io/packages/Emmet)
 - [GitGutter](https://packagecontrol.io/packages/GitGutter)
 - [HTML5](https://packagecontrol.io/packages/HTML5)
-- [Javascript & NodeJS Snippets](https://packagecontrol.io/packages/Javascript & NodeJS Snippets)
+- [JavaScript & NodeJS Snippets](https://packagecontrol.io/packages/JavaScript%20%26%20NodeJS%20Snippets)
 - [JsFormat](https://packagecontrol.io/packages/JsFormat)
 - [LESS](https://packagecontrol.io/packages/LESS)
 - [Predawn](https://packagecontrol.io/packages/Predawn)
 - [ReactJS](https://packagecontrol.io/packages/ReactJS)
 - [Sass](https://packagecontrol.io/packages/Sass)
-- [SidebarEnhancements](https://packagecontrol.io/packages/SidebarEnhancements)
+- [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements)
 - [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)
   - [SublimeLinter-jshint](https://packagecontrol.io/packages/SublimeLinter-jshint)
   - [SublimeLinter-php](https://packagecontrol.io/packages/SublimeLinter-php)
