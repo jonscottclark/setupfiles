@@ -50,8 +50,5 @@ brew install mongodb
 brew install tree
 brew install zsh
 
-# Autojump for faster filesystem navigation
-brew install autojump
-
 # Remove outdated versions from the cellar.
 brew cleanup
