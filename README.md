@@ -73,6 +73,12 @@ Simply execute the file to apply the new defaults:
 
 (Some settings are app-specific to Google Chrome and iTerm, so ensure you have these installed already, either through Cask or by manually installing them.)
 
+## Typeface
+
+I've included the [Input font family](http://input.fontbureau.com/), the typeface for coding and for the command line (it's referenced in my Sublime Text and iTerm preferences).
+
+You can also [download it](http://input.fontbureau.com/download/?customize&fontSelection=fourStyleFamily&regular=InputMono-Regular&italic=InputMono-Italic&bold=InputMono-Bold&boldItalic=InputMono-BoldItalic&a=0&g=ss&i=serif&l=serifs_round&zero=slash&asterisk=height&braces=straight&preset=default&line-height=1.2&email=) and customize it to your liking by changing the base styles, character variations, and the default line height. The download link above will pre-fill the customization controls with the settings I selected when I initially downloaded it.
+
 ## Shell
 
 I maintain a [personal dotfiles repo](https://github.com/jonscottclark/dotfiles) which contains configuration for zsh, head over there for shell goodies.
