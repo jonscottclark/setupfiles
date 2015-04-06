@@ -59,6 +59,7 @@
   "show_line_endings": true,
   "sidebar_default": true,
   "tab_size": 2,
+  "tabs_padding_small": true,
   "tabs_small": true,
   "theme": "Afterglow-blue.sublime-theme",
   "translate_tabs_to_spaces": true,
