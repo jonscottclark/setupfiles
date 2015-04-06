@@ -1,5 +1,6 @@
 # Sublime Text Packages
 
+- [Afterglow](https://packagecontrol.io/packages/Theme%20-%20Afterglow)
 - [Alignment](https://packagecontrol.io/packages/Alignment)
 - [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter)
 - [DocBlockr](https://packagecontrol.io/packages/DocBlockr)

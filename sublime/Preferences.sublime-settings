@@ -3,7 +3,7 @@
   "caret_extra_width": 1,
   "caret_style": "phase",
   "close_windows_when_empty": false,
-  "color_scheme": "Packages/Predawn/predawn.tmTheme",
+  "color_scheme": "Packages/Predawn/Predawn.tmTheme",
   "copy_with_empty_selection": false,
   "default_encoding": "UTF-8",
   "default_line_ending": "unix",
@@ -27,8 +27,7 @@
   "findreplace_small": true,
   "folder_exclude_patterns":
   [
-    ".git",
-    "node_modules"
+    ".git"
   ],
   "font_face": "Input",
   "font_size": 14,
@@ -60,8 +59,8 @@
   "show_line_endings": true,
   "sidebar_default": true,
   "tab_size": 2,
-  "tabs_medium": true,
-  "theme": "predawn-DEV.sublime-theme",
+  "tabs_small": true,
+  "theme": "Afterglow-blue.sublime-theme",
   "translate_tabs_to_spaces": true,
   "trim_trailing_white_space_on_save": true,
   "word_wrap": true
