@@ -20,6 +20,12 @@ Then install a stable version of [Node](https://nodejs.org):
 
 `$ nvm install 0.10`
 
+#### Node.js modules
+
+Install some global Node.js modules via the provided shell script:
+
+`$ ./npm.sh`
+
 ### rvm (Ruby Version Manager)
 
 Install rvm and a stable version of Ruby via the following commands (from the rvm [homepage](https://rvm.io)):
