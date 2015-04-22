@@ -63,6 +63,14 @@ Install [Package Control](https://packagecontrol.io/installation) and some [real
 
 Check out the [`sublime`](https://github.com/jonscottclark/setupfiles/tree/master/sublime/) directory for preferences to import.
 
+#### SublimeLinter
+
+Install all the SublimeLinter packages last (it copies your current color scheme and modifies it).
+
+Remember to set the syntax of all `.js` and `.jsx` files to **JavaScript (Babel)**
+
+For JavaScript linting with Babel + ESLint, the `.eslintrc` file in the `sublime/` directory should be placed in your project root (taken from the [Airbnb JavaScript style guide](https://github.com/airbnb/javascript)).
+
 ### iTerm
 
 Download via Cask:

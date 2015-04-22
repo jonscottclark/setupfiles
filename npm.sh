@@ -6,6 +6,11 @@ npm install -g bower
 npm install -g gulp
 npm install -g http-server
 
+# Required for SublimeLinter
+
+npm install -g eslint
+npm install -g babel-eslint
+
 # Various utilities
 
 npm install -g download
