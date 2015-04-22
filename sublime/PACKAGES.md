@@ -1,13 +1,14 @@
 # Sublime Text Packages
 
-- [Afterglow](https://packagecontrol.io/packages/Theme%20-%20Afterglow)
 - [Alignment](https://packagecontrol.io/packages/Alignment)
+- [Babel](https://packagecontrol.io/packages/Babel)
 - [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter)
 - [DocBlockr](https://packagecontrol.io/packages/DocBlockr)
 - [Emmet](https://packagecontrol.io/packages/Emmet)
 - [GitGutter](https://packagecontrol.io/packages/GitGutter)
 - [HTML5](https://packagecontrol.io/packages/HTML5)
 - [JavaScript & NodeJS Snippets](https://packagecontrol.io/packages/JavaScript%20%26%20NodeJS%20Snippets)
+- [jQuery](http://packagecontrol.io/packages/jQuery)
 - [JsFormat](https://packagecontrol.io/packages/JsFormat)
 - [LESS](https://packagecontrol.io/packages/LESS)
 - [Predawn](https://packagecontrol.io/packages/Predawn)
@@ -19,3 +20,4 @@
   - [SublimeLinter-php](https://packagecontrol.io/packages/SublimeLinter-php)
   - [SublimeLinter-json](https://packagecontrol.io/packages/SublimeLinter-json)
   - [SublimeLinter-contrib-scss-lint](https://packagecontrol.io/packages/SublimeLinter-contrib-scss-lint)
+- [Theme - Afterglow](https://packagecontrol.io/packages/Theme%20-%20Afterglow)
