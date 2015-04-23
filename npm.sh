@@ -5,6 +5,7 @@
 npm install -g bower
 npm install -g gulp
 npm install -g http-server
+npm install -g webpack
 
 # Required for SublimeLinter
 
