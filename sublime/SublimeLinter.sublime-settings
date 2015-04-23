@@ -12,11 +12,6 @@
                 "args": [],
                 "excludes": []
             },
-            "jshint": {
-                "@disable": false,
-                "args": [],
-                "excludes": []
-            },
             "json": {
                 "@disable": false,
                 "args": [],
