@@ -2,6 +2,7 @@
 
 - [Alignment](https://packagecontrol.io/packages/Alignment)
 - [Babel](https://packagecontrol.io/packages/Babel)
+- [Babel Snippets](https://packagecontrol.io/packages/Babel%20Snippets)
 - [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter)
 - [DocBlockr](https://packagecontrol.io/packages/DocBlockr)
 - [Emmet](https://packagecontrol.io/packages/Emmet)
@@ -12,7 +13,6 @@
 - [JsFormat](https://packagecontrol.io/packages/JsFormat)
 - [LESS](https://packagecontrol.io/packages/LESS)
 - [Predawn](https://packagecontrol.io/packages/Predawn)
-- [ReactJS](https://packagecontrol.io/packages/ReactJS)
 - [Sass](https://packagecontrol.io/packages/Sass)
 - [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements)
 - [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)
