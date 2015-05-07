@@ -1,6 +1,7 @@
 # Sublime Text Packages
 
 - [Alignment](https://packagecontrol.io/packages/Alignment)
+- [AngularJS](https://packagecontrol.io/packages/AngularJS)
 - [Babel](https://packagecontrol.io/packages/Babel)
 - [Babel Snippets](https://packagecontrol.io/packages/Babel%20Snippets)
 - [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter)
