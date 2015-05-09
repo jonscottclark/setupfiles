@@ -1,4 +1,6 @@
-# Sublime Text Packages
+# Sublime Text
+
+## Packages
 
 - [Alignment](https://packagecontrol.io/packages/Alignment)
 - [AngularJS](https://packagecontrol.io/packages/AngularJS)
@@ -22,3 +24,27 @@
   - [SublimeLinter-php](https://packagecontrol.io/packages/SublimeLinter-php)
   - [SublimeLinter-scss-lint](https://packagecontrol.io/packages/SublimeLinter-contrib-scss-lint)
 - [Theme - Afterglow](https://packagecontrol.io/packages/Theme%20-%20Afterglow)
+
+## Preferences & Keybindings
+
+Move any files with a `.sublime-` extension to the `/Packages/User` directory in your Sublime Text 3 settings directory (on OSX, `~/Library/Application Support/Sublime Text 3`)
+
+Some keybindings have been changed to avoid conflicts between Packages:
+
+- Change **Alignment** keybinding as it conflicts with a SublimeLinter shortcut.
+
+## Babel
+
+Let's write ES6!
+
+Ensure that the syntax of all `.js` and `.jsx` files is **JavaScript (Babel)**
+
+To do this, open a `.js` file and a `.jsx` file, and for each of them, go to *View > Syntax > Open all with current extension as ... > Babel > JavaScript (Babel)*
+
+## SublimeLinter
+
+Install all the SublimeLinter packages last (it copies your current color scheme and modifies it).
+
+For JavaScript linting with Babel + ESLint, the `.eslintrc` file in the `sublime/` directory should be copied to your project root (taken from the [Airbnb JavaScript style guide](https://github.com/airbnb/javascript)).
+
+User settings have been modified to use ESLint on files with the "JavaScript (Babel)" syntax.

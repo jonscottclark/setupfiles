@@ -61,15 +61,7 @@ Download via Cask:
 
 Install [Package Control](https://packagecontrol.io/installation) and some [really useful packages](https://github.com/jonscottclark/setupfiles/blob/master/sublime/PACKAGES.md).
 
-Check out the [`sublime`](https://github.com/jonscottclark/setupfiles/tree/master/sublime/) directory for preferences to import.
-
-#### SublimeLinter
-
-Install all the SublimeLinter packages last (it copies your current color scheme and modifies it).
-
-Remember to set the syntax of all `.js` and `.jsx` files to **JavaScript (Babel)**
-
-For JavaScript linting with Babel + ESLint, the `.eslintrc` file in the `sublime/` directory should be placed in your project root (taken from the [Airbnb JavaScript style guide](https://github.com/airbnb/javascript)).
+Check out the [`sublime`](https://github.com/jonscottclark/setupfiles/tree/master/sublime/) directory for a README with more info on packages to install and other setup tasks specific to ST.
 
 ### iTerm
 
@@ -101,4 +93,4 @@ You can also [download it](http://input.fontbureau.com/download/?customize&fontS
 
 ## Shell
 
-I maintain a [personal dotfiles repo](https://github.com/jonscottclark/dotfiles) which contains configuration for zsh, head over there for shell goodies.
+I maintain a [personal dotfiles repo](https://github.com/jonscottclark/dotfiles) which contains configuration for zsh; head over there for shell goodies.
