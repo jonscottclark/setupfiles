@@ -2,6 +2,10 @@
 
 ## Packages
 
+You'll need to install [Package Control](https://packagecontrol.io/installation) before adding any of these plugins.
+
+**Install all the SublimeLinter packages last!** (The plugin copies your current color scheme and extends it).
+
 - [Alignment](https://packagecontrol.io/packages/Alignment)
 - [AngularJS](https://packagecontrol.io/packages/AngularJS)
 - [Babel](https://packagecontrol.io/packages/Babel)
@@ -27,11 +31,11 @@
 
 ## Preferences & Keybindings
 
-Move any files with a `.sublime-` extension to the `/Packages/User` directory in your Sublime Text 3 settings directory (on OSX, `~/Library/Application Support/Sublime Text 3`)
+Move any files with a `.sublime-` extension in this directory to the `/Packages/User` directory in your Sublime Text 3 settings directory (on OSX, `~/Library/Application Support/Sublime Text 3`).
 
 Some keybindings have been changed to avoid conflicts between Packages:
 
-- Change **Alignment** keybinding as it conflicts with a SublimeLinter shortcut.
+- Changed the default **Alignment** keybinding `⌘ + Ctrl + A` as it conflicts with a the SublimeLinter shortcut to *Show All Errors*. Now, use `⌘ + ⌥ + Shift + A`; just a personal preference, same hand pattern as *Save for web* in Photoshop :)
 
 ## Babel
 
@@ -43,8 +47,6 @@ To do this, open a `.js` file and a `.jsx` file, and for each of them, go to *Vi
 
 ## SublimeLinter
 
-Install all the SublimeLinter packages last (it copies your current color scheme and modifies it).
+To define linting rules, the `.eslintrc` file in this directory should be copied to the root directory of each ES6 project (taken from the [Airbnb JavaScript style guide](https://github.com/airbnb/javascript)).
 
-For JavaScript linting with Babel + ESLint, the `.eslintrc` file in the `sublime/` directory should be copied to your project root (taken from the [Airbnb JavaScript style guide](https://github.com/airbnb/javascript)).
-
-User settings have been modified to use ESLint on files with the "JavaScript (Babel)" syntax.
+For JavaScript linting with Babel + ESLint, the SublimeLinter settings have been modified to invoke ESLint on files with the "JavaScript (Babel)" syntax.
