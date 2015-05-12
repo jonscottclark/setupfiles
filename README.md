@@ -55,11 +55,10 @@ Remember to install a Vagrant Box, such as Ubuntu Server 14.04 LTS:
 Download via Cask:
 
 `$ brew tap caskroom/versions`
+
 `$ brew cask install sublime-text-3`
 
 (Of course, you have a license key for this, right?)
-
-Install [Package Control](https://packagecontrol.io/installation) and some [really useful packages](https://github.com/jonscottclark/setupfiles/blob/master/sublime/PACKAGES.md).
 
 Check out the [`sublime`](https://github.com/jonscottclark/setupfiles/tree/master/sublime/) directory for a README with more info on packages to install and other setup tasks specific to ST.
 
@@ -77,7 +76,7 @@ To use the colour scheme, type the following while you're in iTerm:
 
 ## OSX Settings
 
-The included `.osx` file is a modified and greatly truncated version of the same file [originally](https://github.com/mathiasbynens/dotfiles/blob/master/.osx) authored by @mathiasbynens; I removed a lot of settings that I thought were unnecessary (or that I honestly didn't understand).
+The included `.osx` file is a modified and greatly truncated version of the same file [originally](https://github.com/mathiasbynens/dotfiles/blob/master/.osx) authored by [@mathiasbynens](https://github.com/mathiasbynens); I removed a lot of settings that I thought were unnecessary (or that I honestly didn't understand).
 
 Simply execute the file to apply the new defaults:
 
