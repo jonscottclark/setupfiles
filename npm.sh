@@ -7,10 +7,11 @@ npm install -g gulp
 npm install -g http-server
 npm install -g webpack
 
-# Required for SublimeLinter
+# Linting tool, parser, and plugin(s)
 
 npm install -g eslint
 npm install -g babel-eslint
+npm install -g eslint-plugin-react
 
 # Various utilities
 
