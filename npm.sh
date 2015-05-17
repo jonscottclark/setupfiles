@@ -2,6 +2,7 @@
 
 # Install some global Node.js modules
 
+npm install -g babel
 npm install -g bower
 npm install -g gulp
 npm install -g http-server
