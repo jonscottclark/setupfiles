@@ -28,6 +28,12 @@ You'll need to install [Package Control](https://packagecontrol.io/installation)
   - [SublimeLinter-scss-lint](https://packagecontrol.io/packages/SublimeLinter-contrib-scss-lint)
 - [Theme - Afterglow](https://packagecontrol.io/packages/Theme%20-%20Afterglow)
 
+## Theme & Appearance
+
+Set the colour scheme by selecting *Preferences > Color Scheme > Theme - Afterglow* and picking the variation of your choice.
+
+The option to load the theme itself is included in the Preferences file.
+
 ## Preferences & Keybindings
 
 Move any files with a `.sublime-` extension in this directory to the `/Packages/User` directory in your Sublime Text 3 settings directory (on OSX, `~/Library/Application Support/Sublime Text 3`).
