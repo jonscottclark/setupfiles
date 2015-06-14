@@ -4,9 +4,10 @@
 
 gem install bundler
 
-gem install github-pages
+gem install jekyll
 gem install sass
-gem install scss-lint
+gem install compass
+gem install breakpoint
 
 # Fun stuff.
 
