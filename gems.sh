@@ -8,6 +8,7 @@ gem install jekyll
 gem install sass
 gem install compass
 gem install breakpoint
+gem install susy
 
 # Fun stuff.
 
