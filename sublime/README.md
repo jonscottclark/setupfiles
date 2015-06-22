@@ -52,6 +52,6 @@ To do this, open a `.js` file and a `.jsx` file, and for each of them, go to *Vi
 
 ## SublimeLinter
 
-To define linting rules, the `.eslintrc` file in this directory should be copied to the root directory of each ES6 project (taken from the [Airbnb JavaScript style guide](https://github.com/airbnb/javascript)).
-
 For JavaScript linting with Babel + ESLint, the SublimeLinter settings have been modified to invoke ESLint on files with the "JavaScript (Babel)" syntax.
+
+To define linting rules, make sure you have an appropriate `.eslintrc` file in the root directory of each ES6 project (you can find a thoroughly documented `.eslintrc` in the [Airbnb JavaScript style guide](https://github.com/airbnb/javascript)).
