@@ -25,9 +25,10 @@ brew install moreutils
 brew install findutils
 # Install GNU `sed`, overwriting the built-in `sed`.
 brew install gnu-sed --with-default-names
-
 # Install `wget` with IRI support.
 brew install wget --with-iri
+# Install `tmux`
+brew install tmux
 
 # Install more recent versions of some OS X tools.
 brew install homebrew/dupes/grep
