@@ -33,7 +33,6 @@ brew install tmux
 # Install more recent versions of some OS X tools.
 brew install homebrew/dupes/grep
 brew install homebrew/dupes/openssh
-brew install homebrew/dupes/screen
 brew install homebrew/php/php55 --with-gmp
 
 # Install Cask
@@ -44,12 +43,13 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json quicklook-csv 
 
 # Install other useful binaries.
 brew install composer --ignore-dependencies
+brew install fish
 brew install git
 brew install git-flow
-brew install graphicsmajick
 brew install mongodb
+brew install the_silver_searcher
 brew install tree
-brew install zsh
+brew install z
 
 # Remove outdated versions from the cellar.
 brew cleanup
