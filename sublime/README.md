@@ -4,8 +4,6 @@
 
 You'll need to install [Package Control](https://packagecontrol.io/installation) before adding any of these plugins.
 
-**Install all the SublimeLinter packages last!** (The plugin copies your current color scheme and extends it).
-
 - [Alignment](https://packagecontrol.io/packages/Alignment)
 - [AngularJS](https://packagecontrol.io/packages/AngularJS)
 - [Babel](https://packagecontrol.io/packages/Babel)
