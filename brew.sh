@@ -43,7 +43,7 @@ brew install caskroom/cask/brew-cask
 brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json quicklook-csv betterzipql qlimagesize webpquicklook suspicious-package
 
 # Install other useful binaries.
-brew install composer
+brew install composer --ignore-dependencies
 brew install git
 brew install git-flow
 brew install graphicsmajick
