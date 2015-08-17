@@ -7,6 +7,7 @@ npm install -g brunch
 npm install -g gulp
 npm install -g grunt-cli
 npm install -g http-server
+npm install -g less
 npm install -g webpack
 
 # Linting tool, parser, and plugin(s)
