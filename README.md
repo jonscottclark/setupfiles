@@ -32,9 +32,9 @@ Download via Cask:
 
 `$ brew cask install iterm2`
 
-Check out the [`iterm`](https://github.com/jonscottclark/setupfiles/tree/master/iterm/) directory for preferences to import and a colour scheme.
+Check out the [`iterm`](https://github.com/jonscottclark/setupfiles/tree/master/iterm/) directory for a colour scheme.
 
-To import the custom preferences, go to your iTerm preferences, and check the box that says "Load preferences from a custom folder or URL", and then browse to the [`iterm`](https://github.com/jonscottclark/setupfiles/tree/master/iterm/) directory.
+I've removed the custom preferences as they were too subject to change, they can contain personal data (paths, etc.) and they are outside the scope of this repo.
 
 To import the colour scheme, type the following while you're in iTerm:
 
