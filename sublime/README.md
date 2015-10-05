@@ -13,7 +13,6 @@ You'll need to install [Package Control](https://packagecontrol.io/installation)
 - [DocBlockr](https://packagecontrol.io/packages/DocBlockr)
 - [EditorConfig](https://packagecontrol.io/packages/EditorConfig)
 - [Emmet](https://packagecontrol.io/packages/Emmet)
-- [GitGutter](https://packagecontrol.io/packages/GitGutter)
 - [HTML5](https://packagecontrol.io/packages/HTML5)
 - [Jade](https://packagecontrol.io/packages/Jade)
 - [JavaScript & NodeJS Snippets](https://packagecontrol.io/packages/JavaScript%20%26%20NodeJS%20Snippets)
@@ -28,6 +27,7 @@ You'll need to install [Package Control](https://packagecontrol.io/installation)
   - [SublimeLinter-php](https://packagecontrol.io/packages/SublimeLinter-php)
   - [SublimeLinter-scss-lint](https://packagecontrol.io/packages/SublimeLinter-contrib-scss-lint)
 - [Theme - Afterglow](https://packagecontrol.io/packages/Theme%20-%20Afterglow)
+- [VCS Gutter](https://packagecontrol.io/packages/VCS%20Gutter)
 
 ## Theme & Appearance
 
